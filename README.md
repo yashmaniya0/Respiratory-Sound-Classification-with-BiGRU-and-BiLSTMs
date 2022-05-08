@@ -4,7 +4,7 @@ classification task of respiratory sounds. The framework
 initially uses a wide range techniques to extract time-domain
 and spectral features. Then it trains BiGRU with Attention
 mechanism to extract more advanced features of respiratory
-sounds for XGBoost to classify./
+sounds for XGBoost to classify.
 
 ## **Dataset**
 We use a dataset of respiratory sounds from the International Conference on Biomedicine and Health Informatics (ICBHI 2017) Challenge.
