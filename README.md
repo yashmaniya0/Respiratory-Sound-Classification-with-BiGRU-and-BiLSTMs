@@ -41,5 +41,4 @@ We trained different RNN architectures to get the best results. Following are tw
 ![Bi-LSTM + Deep Layers + Attention Layer](./model_imgs/final_model.png)
 
 ## **Results**
-<br>
 ![Bi-LSTM + Deep Layers + Attention Layer](./model_imgs/results.png)
